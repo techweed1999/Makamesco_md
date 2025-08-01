@@ -6,7 +6,7 @@ const {
 } = require("axios");
 ezra({
   'nomCom': "follow",
-  'aliases': ["supported", "luckycha", "foll", "following"],
+  'aliases': ["supported", "makachannel", "foll", "following"],
   'reaction': '♂️',
   'categorie': "Support-Owner"
 }, async (_0x2ce843, _0x1c44fd, _0x32de8a) => {
