@@ -1,4 +1,4 @@
-const { ezra } = require("../fredi/ezra");
+qqqqqqqqqqqconst { ezra } = require("../fredi/ezra");
 var mumaker = require("mumaker");
 ezra({ nomCom: "hacker",
     categorie: "Logo", reaction: "👨🏿‍💻" }, async (origineMessage, zk, commandeOptions) => {
@@ -469,14 +469,14 @@ ezra({nomCom:"arena",categorie:"Logo",reaction:"🥵"},async(dest,zk,commandeOpt
   try{
       if(!arg||arg=="")
       {
-        repondre(prefixe+"arena Lucky-MD");return;
+        repondre(prefixe+"arena MAKAMESCO-MD");return;
       }
 
     var lien="https://en.ephoto360.com/create-cover-arena-of-valor-by-mastering-360.html";
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by LUCKY_MD*"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by MAKAMESCO_MD*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
 
@@ -487,14 +487,14 @@ ezra({nomCom:"incandescent",categorie:"Logo",reaction:"😋"},async(dest,zk,comm
   try{
       if(!arg||arg=="")
       {
-        repondre(prefixe+"incandescent LUCKY-MD");return;
+        repondre(prefixe+"incandescent LU-MD");return;
       }
 
     var lien="https://en.ephoto360.com/text-effects-incandescent-bulbs-219.html";
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by LUCKY_MD *"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by MAKAMESCO_MD *"},{quoted:ms})
   } catch(e){repondre(e)}
 })
 
