@@ -252,7 +252,7 @@ ezra({ nomCom: "words", categorie: "Conversion", reaction: "😂" }, async (orig
     // Create the sticker
     const stickerMess = new Sticker(meme, {
       pack: nomAuteurMessage,
-      author: 'FREDI TECH',
+      author: 'SESCO TECH',
       type: StickerTypes.FULL,
       categories: ["🤩", "🎉"],
       id: "12345",
