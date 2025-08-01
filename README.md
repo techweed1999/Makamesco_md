@@ -16,7 +16,7 @@
 ### 📤 Deployment Options
 
 <!-- ✅ Heroku Deploy Button (Fixed) -->
-<a href="https://heroku.com/deploy?template=https://github.com/sesco001/Makamesco_md1" target="_blank">
+<a href="https://heroku.com/deploy?template=https://github.com/sesco001/Makamesco_md" target="_blank">
   <img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-purple?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy on Heroku" width="220">
 </a>
 
@@ -36,7 +36,7 @@
 <details>
 <summary>CLICK FOR MORE</summary>
 
-<a href="https://github.com/sesco001/Spank-md/archive/refs/heads/main.zip">
+<a href="https://github.com/sesco001/Makamesco_md/archive/refs/heads/main.zip">
   <img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Download Zip" width="150">
 </a>
 
