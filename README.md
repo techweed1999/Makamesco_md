@@ -26,7 +26,11 @@
 </a>
 
 <!-- Optional Panel Deployment -->
-<a href="https://spank-ver.vercel.app/" target="_blank">
+<a href="<a href="https://github.com/sesco001/Makamesco_md/archive/refs/heads/main.zip" download>
+  <button style="padding: 10px 20px; font-size: 16px; background-color: #24292e; color: white; border: none; border-radius: 5px; cursor: pointer;">
+    ⬇️ Download Our ZIP
+  </button>
+</a>" target="_blank">
   <img src="https://img.shields.io/badge/DEPLOY%20ON%20PANEL-red?style=for-the-badge&logo=serverfault" alt="Deploy on Panel" width="220">
 </a>
 
