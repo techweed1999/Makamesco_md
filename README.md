@@ -31,10 +31,17 @@
   </a>
 </p>
 
-<!-- Download ZIP  -->
+<!-- Deploy to Render -->
+<p align="center">
+  <a href="https://render.com/" target="_blank">
+    <img src="https://img.shields.io/badge/DEPLOY%20ON-RENDER-black?style=for-the-badge&logo=render" alt="Deploy on Render" width="240">
+  </a>
+</p>
+
+<!-- Download ZIP (renamed as Deployment on Panel) -->
 <p align="center">
   <a href="https://github.com/sesco001/Makamesco_md/archive/refs/heads/main.zip" download>
-    <img src="https://img.shields.io/badge/DOWNLOAD%20OUR%20ZIP-blue?style=for-the-badge&logo=github" alt=" PANEL Download ZIP" width="240">
+    <img src="https://img.shields.io/badge/DEPLOYMENT%20ON-PANEL-orange?style=for-the-badge&logo=github" alt="Download ZIP as Deployment" width="240">
   </a>
 </p>
 
@@ -42,7 +49,7 @@
 <h2 align="center">🧩 Extras</h2>
 
 <ul align="center">
-  <li><strong>🔗 BOOST FOLLOWERS:</strong> <a href="https://makamescodigitalsolutions.com" target="_blank">makamescodigitalsolutions.com</a></li>
+  <li><strong>🔗 Official Website:</strong> <a href="https://makamescodigitalsolutions.com" target="_blank">makamescodigitalsolutions.com</a></li>
   <li><strong>▶️ Tutorial Video:</strong> <a href="https://youtu.be/Y0FiyP91NS4?si=sTLnvF0LZoqRnHFE" target="_blank">Watch how to add & boost</a></li>
   <li><strong>💬 Need help?</strong> <a href="https://t.me/yourtelegramlink" target="_blank">Join our Telegram</a></li>
   <li><strong>🔥 Promotion:</strong> Are you tired of getting small media presence? <br><em>Get followers, subscribers, likes, and views today!</em></li>
