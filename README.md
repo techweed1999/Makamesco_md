@@ -49,7 +49,7 @@
 <h2 align="center">🧩 Extras</h2>
 
 <ul align="center">
-  <li><strong>🔗 Official Website:</strong> <a href="https://makamescodigitalsolutions.com" target="_blank">makamescodigitalsolutions.com</a></li>
+  <li><strong>🔗 BOOST FOLLOWERS:</strong> <a href="https://makamescodigitalsolutions.com" target="_blank">makamescodigitalsolutions.com</a></li>
   <li><strong>▶️ Tutorial Video:</strong> <a href="https://youtu.be/Y0FiyP91NS4?si=sTLnvF0LZoqRnHFE" target="_blank">Watch how to add & boost</a></li>
   <li><strong>💬 Need help?</strong> <a href="https://t.me/yourtelegramlink" target="_blank">Join our Telegram</a></li>
   <li><strong>🔥 Promotion:</strong> Are you tired of getting small media presence? <br><em>Get followers, subscribers, likes, and views today!</em></li>
