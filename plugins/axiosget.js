@@ -249,7 +249,7 @@ ezra({
     const thumb = data.image; // Assuming the API returns an 'image' property for the element thumbnail
 
     const formattedMessage = `
-*Lucky Md Element Information:*
+*Makamesco Md Element Information:*
 🚀 *Name:* ${data.name}
 🚀 *Symbol:* ${data.symbol}
 🚀 *Atomic Number:* ${data.atomic_number}
@@ -291,7 +291,7 @@ ezra({
   const githubUsername = arg.join(" ");
 
   if (!githubUsername) {
-    return repondre("Give me a valid GitHub username like: github Fred1e");
+    return repondre("Give me a valid GitHub username like: github Sesco001");
   }
 
   try {
