@@ -45,7 +45,7 @@ ezra({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =>
 ╰─━━━━══──══━━━❂\n${readmore}
 `;
 
-    let menuMsg = `𝙻𝚞𝚌𝚔𝚢 𝙼𝚍 𝙲𝚖𝚍`;
+    let menuMsg = `Makamesco 𝙼𝚍 𝙲𝚖𝚍`;
     
     for (const cat in coms) {
         menuMsg += `
@@ -62,7 +62,7 @@ ezra({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =>
     }
     
     menuMsg += `
-> Made By ғʀᴇᴅɪᴇ ᴛᴇᴄʜ\n`;
+> Made By Meshack Matheka ᴛᴇᴄʜ\n`;
 
     try {
         const senderName = nomAuteurMessage || message.from;  // Use correct variable for sender name
